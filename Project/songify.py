@@ -11,7 +11,7 @@ import os
 import time
 
 client_id='04cef5a228844087991c6993f9ce061c'
-client_secret='2efeeab021664d499c4454ab61cd046b'
+client_secret=''
 redirect_uri='https://example.com/callback/'
 
 print(""" ==============   MENU   ==============
